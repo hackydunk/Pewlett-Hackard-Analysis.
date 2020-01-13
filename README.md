@@ -19,3 +19,6 @@ All challenge data is in the challenge folder.
 Below are the query results...  
 
 ![titles_retiring](https://github.com/hackydunk/Pewlett-Hackard-Analysis./blob/master/Challenge/Examples/titles_retiring.PNG)
+![titles_retiring_frequency](https://github.com/hackydunk/Pewlett-Hackard-Analysis./blob/master/Challenge/Examples/titles_retiring_frequency.PNG)
+![mentors](https://github.com/hackydunk/Pewlett-Hackard-Analysis./blob/master/Challenge/Examples/mentors.PNG)
+

@@ -18,7 +18,7 @@ Number of Individuals Retiring: 41,380
 Number of Individuals Being Hired: missing data for this  
 Number of Individuals available for the mentorship role: 1,549  
 
-Further analysis on this data could include looking at which departments are going to have the most retirees or which deparments are costing the most money to be paid annually in salary.
+Further analysis on this data could include looking at which departments are going to have the most retirees or which departments have the highest salary budgeted.
 
 
 Query results...  

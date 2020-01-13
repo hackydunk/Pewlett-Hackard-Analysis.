@@ -14,9 +14,9 @@ In this challenge, you will use advanced queries and joins to create a list of c
 
 ## Challenge Summary
 
-Number of Individuals Retiring: 41,380
+Number of Individuals Retiring: 41,380  
 Number of Individuals Being Hired: missing data for this  
-Number of Individuals available for the mentorship role: 1,549
+Number of Individuals available for the mentorship role: 1,549  
 
 Further analysis on this data could include looking at which departments are going to have the most retirees or which deparments are costing the most money to be paid annually in salary.
 

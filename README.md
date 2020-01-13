@@ -14,3 +14,8 @@ In this challenge, you will use advanced queries and joins to create a list of c
 
 ## Challenge Summary
 
+All challenge data is in the challenge folder.  
+
+Below are the query results...  
+
+![titles_retiring]("https://github.com/hackydunk/Pewlett-Hackard-Analysis./blob/master/Challenge/Examples/titles_retiring.PNG")
